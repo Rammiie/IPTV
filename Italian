@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://expatescort.com/public/img/flags/it.png" group-title="LABEL",~ Italy TV ~
-http://www.lengua.com/anthems/Italy.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e2qm2uH.png" group-title="ITALY",4.0 TV Sicilia
 https://dcunilive28-lh.akamaihd.net/i/dclive_1@681033/master.m3u8?fluxustv.m3u8
  
