@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.countryflags.com/thumbs/armenia/flag-3d-round-250.png" group-title="LABEL",~ Armenia TV ~
-http://www.lengua.com/anthems/Armenia.mp3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mXpNY6L.jpg" group-title="ARMENIA",1 TV (Opt-1)
 https://amtvdvr.tulix.tv/am2abr/tracks-v3a1/index.m3u8
 
