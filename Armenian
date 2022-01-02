@@ -99,7 +99,7 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FKpxkVH.png" group-title="ARMENIA",Yerkir Media
 http://ott-cdn.ucom.am/s7/index.m3u8
 
-#EXTINF:-1 tvg-id=”” tvg-name=”” tvg-language=”Armenian” tvg-logo=”https://i.imgur.com/yGK9VSf.jpg” group-title=””,ARTN TV
+#EXTINF:-1 tvg-id=”” tvg-name=”Pete ARTN” tvg-language=”Armenian” tvg-logo=”https://i.imgur.com/yGK9VSf.jpg” group-title=””,ARTN TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
 
 #EXTINF:-1 tvg-id=”” tvg-name=”H1” tvg-language=”Armenian” tvg-logo=”https://i.imgur.com/MKVkDVo.png” group-title=””,H1
